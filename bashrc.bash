@@ -91,8 +91,8 @@ if [ -f ~/.bash_functions ]; then
     . ~/.bash_functions
 fi
 
-if [ -f ./git-prompt.sh ]; then
-    . ./git-prompt.sh
+if [ -f ~/dotfiles/git-prompt.sh ]; then
+    . ~/dotfiles/git-prompt.sh
 fi
 
 # enable programmable completion features (you don't need to enable

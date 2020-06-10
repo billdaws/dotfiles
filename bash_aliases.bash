@@ -4,6 +4,7 @@ alias gcam="git commit -am"
 alias gaa="git add -A"
 alias gps="git push"
 alias gpl="git pull"
+alias gd="git diff"
 alias branch_name="git rev-parse --abbrev-ref HEAD"
 
 # python
